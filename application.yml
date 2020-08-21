@@ -7,3 +7,7 @@ db:
     connection: connection-string-here-from-config-server
     host: 127.0.0.1
     port: 1200
+client:
+    port:8082
+server:
+    port:8081
